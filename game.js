@@ -1,6 +1,7 @@
 // 캔버스 설정
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
+const aa = 0;
 
 // 캔버스 크기 설정
 canvas.width = 800;
